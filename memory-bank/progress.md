@@ -1,4 +1,4 @@
 # Progress
 
 - Memory bank initialized with project overview and context files.
-- Ready for future tasks and contributions.
+- Added detailed `codeOverview.md` mapping directories and files.

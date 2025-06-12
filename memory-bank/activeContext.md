@@ -1,4 +1,5 @@
 # Active Context
 
-- Initial memory bank created to support persistent documentation between sessions.
-- No outstanding development tasks yet. Future work will follow contribution guidelines (npm run lint, npm test) when dependencies are installed.
+- Memory bank expanded with `codeOverview.md` detailing key files and directories.
+- No dependencies installed yet, so `npm run lint` and `npm test` fail.
+- Continue deepening documentation and exploring repository structure.
