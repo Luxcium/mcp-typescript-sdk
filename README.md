@@ -845,3 +845,13 @@ Issues and pull requests are welcome on GitHub at <https://github.com/modelconte
 ## License
 
 This project is licensed under the MIT License—see the [LICENSE](LICENSE) file for details.
+
+## Repository Guide
+
+This repository contains several documentation files that provide important context for contributors and AI agents. Start with these resources to navigate the codebase effectively:
+
+- [AGENTS.md](AGENTS.md) – contributor rules and automation guidelines.
+- [memory-bank/](memory-bank/) – persistent project context starting with [projectbrief.md](memory-bank/projectbrief.md).
+- [CLAUDE.md](CLAUDE.md) – build commands and coding conventions.
+- [src/examples/README.md](src/examples/README.md) – example servers and clients.
+
